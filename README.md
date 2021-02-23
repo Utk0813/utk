@@ -3,7 +3,7 @@ Final Year Project 2020- Energy Monitoring and Management System Based on Blockc
 
 Verison 1.0 with NEM Blockchain
 Note:
-unpack "node_modules" and "design" at ../UniversalAssets/
+unpack "node_modules" and "design" at ../UniversalAssets/ <br>
 version 1 may no longer work correct as of today
 
 # FYP SolarShare 2.0
