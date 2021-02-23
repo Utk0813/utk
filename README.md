@@ -2,7 +2,6 @@
 Final Year Project 2020- Energy Monitoring and Management System Based on Blockchain Technology
 
 Verison 1.0 with NEM Blockchain
-
 Note:
 unpack "node_modules" and "design" at ../UniversalAssets/
 version 1 may no longer work correct as of today
