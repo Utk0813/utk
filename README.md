@@ -19,7 +19,6 @@ Below is the sample screenshot of 2.0:
 ![alt text](https://github.com/yangben526/FYP_SolarShare/blob/main/Platform_img/exchnage.PNG)
 
 # Energy Monitoring and Monitoring, and P2P Energy Trading System
-![alt text](https://github.com/yangben526/FYP_SolarShare/blob/main/Platform_img/Energy_meter_monitoring.png)
 ![alt text](https://github.com/yangben526/FYP_SolarShare/blob/main/Platform_img/SolarShareP2PDiagram.png)
 P2P Energy Trading with Smart Contract
 Trading tokenised energy with intrinsic tokens/cryptocurrencies(In this case, NEM crypto)
