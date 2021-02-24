@@ -1,13 +1,13 @@
 # FYP SolarShare
 Final Year Project 2020- Energy Monitoring and Management System Based on Blockchain Technology
 
-Verison 1.0 with NEM Blockchain
+Verison 1.0 with NEM Blockchain (Testnet)
 ### Note:
 unpack "node_modules" and "design" at ../UniversalAssets/ <br>
 Version 1.0 may no longer work correct as of today
 
 # FYP SolarShare 2.0
-Version 2.0 with SYMBOL Blockchain (by NEM).
+Version 2.0 with SYMBOL Blockchain TEST_NET(by NEM).
 This version is not available to the public.
 Below is the sample screenshot of 2.0:
 
