@@ -19,7 +19,8 @@ Below is the sample screenshot of 2.0:
 ![alt text](https://github.com/yangben526/FYP_SolarShare/blob/main/Platform_img/exchnage.PNG)
 
 # Energy Monitoring and Monitoring, and P2P Energy Trading System
+Trading tokenised energy(vagabond.energy) with intrinsic tokens/cryptocurrencies(SYMBOL.xym by NEM)
 ![alt text](https://github.com/yangben526/FYP_SolarShare/blob/main/Platform_img/SolarShareP2PDiagram.png)
-P2P Energy Trading with Smart Contract
-Trading tokenised energy with intrinsic tokens/cryptocurrencies(In this case, NEM crypto)
+
+The P2P Energy Trading with Smart Contract
 ![alt text](https://github.com/yangben526/FYP_SolarShare/blob/main/Platform_img/smart_contract.png)
