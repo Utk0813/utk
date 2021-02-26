@@ -4,7 +4,7 @@ Final Year Project 2020- Energy Monitoring and Management System Based on Blockc
 Verison 1.0 with NEM Blockchain (Testnet)
 ### Note:
 unpack "node_modules" and "design" at ../UniversalAssets/ <br>
-Version 1.0 may no longer work correctly as of today
+Version 1.0 may no longer work correctly
 
 Used with localhost via XAMMP
 Run to start -> http://localhost:8080/P2PTrading/homepage2.php
