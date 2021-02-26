@@ -46,9 +46,10 @@ List of tables:
 GRANT ALL ON household_solar2.* TO 'testuser'@'localhost' IDENTIFIED BY 'password';
 
 ### Symbol-sdk installation
-"npm install symbol-sdk rxjs" at 
+"npm install symbol-sdk rxjs" at
 1. P2PTrading/UniversalAssets/js
 2. P2PTrading/userpageserver/js
+P2PTrading = project name
 
 ### Coversion of Symobol-sdk for browser environment
 
