@@ -9,13 +9,12 @@ Version 1.0 may no longer work correct as of today
 Used with localhost via XAMMP
 Run to start -> http://localhost:8080/P2PTrading/homepage2.php
 
-
-## Prerequisite process and Program
+### Prerequisite process and Program
 
 This program runs on localhost machine,
 requires XAMMP with MySQL for demo
 
-## Requires a database named "household_solar2"
+### Requires a database named "household_solar2"
 List of tables:
 
 1. boughtenergyfromtrader
@@ -42,16 +41,16 @@ List of tables:
 - Status carchar(100)
 
 
-## Grant access to database with SQL
+### Grant access to database with SQL
 
 GRANT ALL ON household_solar2.* TO 'testuser'@'localhost' IDENTIFIED BY 'password';
 
-## Symbol-sdk installation
+### Symbol-sdk installation
 "npm install symbol-sdk rxjs" at 
 1. P2PTrading/UniversalAssets/js
 2. P2PTrading/userpageserver/js
 
-## Coversion of Symobol-sdk for browser environment
+### Coversion of Symobol-sdk for browser environment
 
 "cd" command --> to "./UniversalAssets"
 
